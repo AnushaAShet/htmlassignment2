@@ -1,0 +1,59 @@
+
+.container_12{
+	background: #e3e3e3;
+}
+
+nav li{
+	display: inline;
+	float: right;
+	margin-left: 0;
+	margin-right: 30px;
+	margin-left: 10px;
+}
+ul a{
+	text-decoration: none;
+}
+ul a:hover{
+	text-decoration: underline;
+	font-size: 10px;
+}
+section{
+	box-sizing: border-box;
+	padding: 15px;
+	float: left;
+}
+.page-title{
+	width: 100%;
+	background: #e3e3e3;
+}
+.page-title h1,h5{
+	margin-left: 0px;
+}
+.page-title li{
+	float: right;
+	text-decoration: none;
+}
+.wrap{
+	margin-left: 0px;
+}
+.main img{
+	width: 290px;
+	height: 290px;
+	margin-right: 0px;
+	margin-left: 0px;
+	margin-top: 8px;
+  vertical-align: middle;
+  margin-top: 8px;
+  vertical-align: middle;
+  display: inline-block;
+  float: right;
+}
+.text2
+{
+	width: 190px;
+	text-align: left;
+
+}
+li a:hover{
+	color: green;
+}
